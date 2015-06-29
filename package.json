@@ -1,0 +1,20 @@
+{
+  "name": "NodeModuleSystem",
+  "version": "0.0.0",
+  "description": "Demo on Node.js module system",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Modules",
+    "CommonJS"
+  ],
+  "author": "Ravi",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0"
+  }
+}
